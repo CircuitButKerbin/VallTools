@@ -1,0 +1,9 @@
+fnDef init:
+	push 
+	ret
+
+fnDef onTick:
+	ret
+
+fnDef onDraw:
+	ret
