@@ -26,6 +26,7 @@
 		"*.lua": "lua",
 		"lualib.h": "c",
 		"lauxlib.h": "c",
-		"lua.h": "c"
+		"lua.h": "c",
+		"string.h": "c"
 	}
 }
